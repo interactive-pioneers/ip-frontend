@@ -4,9 +4,9 @@ All-in-one frontend setup for Interactive Pioneers projects, consisting of SCSS 
 
 ## Getting Started
 
-1. Install Yeoman and SCSS generator:
+1. Install Yeoman:
 
-        $ npm i -g yo generator-pioneerscss
+        $ npm i -g yo
 
 2. Move to folder in which SCSS structure should be created at, e.g.:
 
