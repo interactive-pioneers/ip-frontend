@@ -15,6 +15,8 @@ All-in-one frontend setup for Interactive Pioneers projects, consisting of SCSS 
 3. Scaffold structure by running:
 
         $ yo pioneerscss
+       
+4. Include iptools-utils.js and iptools-utils.scss as dependencies in your project.
 
 
 ## typical usage
@@ -34,3 +36,7 @@ sass: {
   }
 }
 ```
+
+## Licence
+
+Copyright © 2018 Interactive Pioneers GmbH. Licenced under [GPL-3](LICENSE).
