@@ -1,10 +1,9 @@
 {
-  "name": "ip-frontend",
+  "name": "iptools-frontend",
   "version": "0.1.0",
   "description": "A frontend setup consisting of several SCSS and Javascript packages",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -12,13 +11,13 @@
   },
   "keywords": [
     "frontend",
-    "ip",
+    "interactive pioneers",
     "javascript",
     "scss",
     "css"
   ],
   "author": "Thomas Weiler",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/interactive-pioneers/ip-frontend/issues"
   },
